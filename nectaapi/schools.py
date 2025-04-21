@@ -59,7 +59,7 @@ def schools(year:int, exam_type:str)->Dict[str,Any]:
         if int(year) > 2015:
             skip = 28
     else:
-        # invalid exam type
+       
         raise Exception(f"Invalid Exam Type {exam_type}")
 
     data = requests.get(url)
