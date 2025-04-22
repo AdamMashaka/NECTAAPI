@@ -209,4 +209,4 @@ Developed by [**Tanzania Programmers**](https://tanzaniaprogrammers.com/), writt
 
 ---
 
-### contributions are awaited for **GitHub repo [NECTA-API](https://github.com/vincent-laizer/NECTA-API)**
+### contributions are awaited for **GitHub repo [NECTA-API](https://github.com/AdamMashaka/NECTA-API)**
